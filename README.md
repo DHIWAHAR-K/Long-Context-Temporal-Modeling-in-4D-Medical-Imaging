@@ -1,1 +1,1 @@
-# 4D-Motion-Compensation-Full-Spatiotemporal-Volumes-in-Unified-Memory
+# Long-Context Temporal Modeling in 4D Medical Imaging
